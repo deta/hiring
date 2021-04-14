@@ -1,4 +1,4 @@
-# Work at Deta
+# Work at [Deta](https://www.deta.sh/)
 
 Come build futuristic dev tools with us. Send portfolio to mustafa@deta.sh
 
