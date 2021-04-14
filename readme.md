@@ -1,11 +1,15 @@
 # Work at Deta
+
 Come build futuristic dev tools with us. Send portfolio to mustafa@deta.sh
+
+**Location:** Berlin & Remote (UTC±4)
+**Level:** At least 1 year of professional experience
 
 ## Full Stack JavaScript Developer
 
 Code apps and libraries at Deta.
 
-### Skill/Interest:
+### Skills/Interests:
 
 - JavaScript
 - TypeScript
@@ -19,7 +23,7 @@ Code apps and libraries at Deta.
 
 Show devs what they can do with Deta.
 
-### Skill/Interest:
+### Skills/Interests:
 
 - Excited about Deta and dev tooling
 - Like to share your knowledge with others
