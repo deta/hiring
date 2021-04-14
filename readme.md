@@ -2,8 +2,8 @@
 
 Come build futuristic dev tools with us. Send portfolio to mustafa@deta.sh
 
-**Location:** Berlin & Remote (UTC±4)
-**Level:** At least 1 year of professional experience
+- **Location:** Berlin & Remote (UTC±4)  
+- **Level:** At least 1 year of professional experience
 
 ## Full Stack JavaScript Developer
 
