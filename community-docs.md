@@ -11,7 +11,7 @@ Work at [Deta](https://www.deta.sh/) & come build the future of cloud computing 
 - Being the first point of contact, offering support, and doing proactive outreach to support our growing (11k+) developer community via Slack, Intercom, and Discord.
 - Owning and delivering A-grade documentation for software developers distributed around the world. 
 
-We see documentation as an extremely important part of our product & would like to internationalize our documentation to a global audience.
+We see documentation as an extremely important part of our product & would like to internationalize our documentation for a global audience.
 
 ### What we're looking for
 
@@ -21,7 +21,7 @@ Here’s a few things we are looking for (nonetheless, if you don’t check all 
 - Basic knowledge of web development 
 - Familiarity with both Python and JavaScript
 - Experience with technical writing & documentation
-- Experience interacting with many people from a variety of backgrounds and troubleshooting technical issues
+- Experience interacting with many people and troubleshooting their technical issues
 
  
 ### Here’s what we’ll give you:
