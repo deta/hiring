@@ -1,4 +1,4 @@
-# Community & Docs
+# Community & Documentation
 
 Work at [Deta](https://www.deta.sh/) & come build the future of cloud computing with us. 
 
