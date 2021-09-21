@@ -2,7 +2,7 @@
 
 Work at [Deta](https://www.deta.sh/) & come build the future of cloud computing with us. 
 
-- **Location:** Berlin
+- **Location:** Berlin & Remote (UTC±4) 
 - **Level:** At least 1 year of professional experience
 
 
