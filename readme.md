@@ -1,1 +1,3 @@
-We're not hiring atm. Watch this repo to get notified in the future!
+We're hiring for the following positions:
+- [Platform Engineering](/platform-engineer.md)
+- [Community & Documentation](/community-docs.md)
