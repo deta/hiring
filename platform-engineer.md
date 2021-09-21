@@ -25,11 +25,5 @@ Here’s a few things we are looking for (nonetheless, if you don’t check all 
 
 Plus points if you know any of the following skills:
 Terraform, Ansible, AWS Lambda, AWS DynamoDB, OS virtualization or Rust.
- 
-### Here’s what we’ll give you:
-- Competitive salary and equity
-- Opportunity to cut your teeth on the backbone of a frontier computing project
-- Flat hierarchy in a small, international, and highly-motivated team
-- Significant responsibility, growth potential, and the ability to make important contributions from day 1
 
 Send CV to mustafa@deta.sh
